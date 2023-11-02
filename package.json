@@ -1,0 +1,29 @@
+{
+  "name": "greetmsg",
+  "version": "1.0.0",
+  "description": "This is simple package to print the greetings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekcs0114/greetmsg.git"
+  },
+  "keywords": [
+    "greetings",
+    "greeting",
+    "message",
+    "greet",
+    "welcome",
+    "hi",
+    "hello",
+    "message"
+  ],
+  "author": "Vivek Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekcs0114/greetmsg/issues"
+  },
+  "homepage": "https://github.com/vivekcs0114/greetmsg#readme"
+}
